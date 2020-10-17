@@ -8,7 +8,7 @@ class Song
 
 end
 
-song = Song.new
-artist = Artist.new
+#song = Song.new
+#artist = Artist.new
 
-song.artist = artist
+#song.artist = artist
